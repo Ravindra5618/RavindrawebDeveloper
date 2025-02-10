@@ -8,7 +8,7 @@
 All of my projects are available at [My GitHub Portfolio](https://portfolio-m7fj.vercel.app/)
 
 ## 📬 How to reach me
-[YourEmail@example.com](ravindrayegiti751@gmail.com)
+[YourEmail@example.com](mailto:ravindrayegiti751@gmail.com)
 
 ## 📄 Know about my experiences
 [My Resume](https://drive.google.com/file/d/1t3zXKoCEH977nIFMxD2FvRxN0Rxr-L8J/view?usp=drive_link)
