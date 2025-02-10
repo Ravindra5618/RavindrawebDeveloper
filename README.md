@@ -16,7 +16,7 @@ All of my projects are available at [My GitHub Portfolio](https://portfolio-m7fj
 ---
 
 ### Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/ravindra-yegiti-1874a5244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ravindra-yegiti-1874a5244/)
 [![Portfolio](https://leetcode.com/u/ravindrayegiti751/)
 
 ---
